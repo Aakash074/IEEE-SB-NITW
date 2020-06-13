@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 /* 
-   Author: WuuD
+   Author: IEEE-SB-NITW
    Version: 1.0.0
 */
 (function($) {
