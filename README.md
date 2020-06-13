@@ -1,16 +1,16 @@
 <p align="center">
 	<a>
 		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
-		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/IEEE-SB-Team/IEEE-SB-Website?color=red&label=Version">
-		<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/IEEE-SB-Team/IEEE-SB-Website/react">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IEEE-SB-Team/IEEE-SB-Website?color=purple">
-		<img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/IEEE-SB-Team/IEEE-SB-Website/master/306be9469258610f6489335f9ab786202e906aa8?color=orange&label=Commit">
-		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=maintenance&style=flat-square&up_message=online&url=https%3A%2F%2FIEEE-SB.net"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/IEEE-SB-Team/IEEE-SB-Website?style=social">
+		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Aakash074/IEEE-SB-NITW?color=red&label=Version">
+		<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/Aakash074/IEEE-SB-NITW/react">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Aakash074/IEEE-SB-NITW?color=purple">
+		<img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/Aakash074/IEEE-SB-NITW/master/306be9469258610f6489335f9ab786202e906aa8?color=orange&label=Commit">
+		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=maintenance&style=flat-square&up_message=online&url=https%3A%2F%2FIEEE-SB.net"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Aakash074/IEEE-SB-NITW?style=social">
 	</a>
 </p>
 <p align="center">
 	<a href="https://IEEE-SB.net">
-		<img width="320" height="348" src="https://github.com/IEEE-SB-Team/IEEE-SB-Website/blob/master/favicon.ico?raw=true" alt="IEEE-SB">
+		<img width="320" height="348" src="https://github.com/Aakash074/IEEE-SB-NITW/blob/master/favicon.ico?raw=true" alt="IEEE-SB">
 	</a>
 </p>
 
