@@ -31,7 +31,7 @@ class Login extends React.Component {
                             </Link>
                           </h3>
                           <p className="text-muted">
-                            Sign in to continue to WuuD.
+                            Sign in to continue to IEEE-SB NITW.
                           </p>
                         </div>
                         <div className="p-3">
