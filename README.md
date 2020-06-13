@@ -52,7 +52,7 @@ $ firebase deployment
       <a href="https://github.com/x">
         <img
           alt="Web Developer"
-          src="https://avatars2.githubusercontent.com/u/15873766?s=400&v=4"
+          src="https://avatars2.githubusercontent.com/u/x?s=400&v=4"
           style="border-radius: 50px"
           width="100"
           height="100"
